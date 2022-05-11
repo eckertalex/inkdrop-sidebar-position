@@ -1,0 +1,13 @@
+{
+  "name": "sidebar-position",
+  "main": "./lib/sidebar-position",
+  "version": "0.0.0",
+  "description": "Customize your sidebar position",
+  "keywords": [],
+  "repository": "https://github.com/eckertalex/sidebar-position",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
